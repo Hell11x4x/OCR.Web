@@ -1,0 +1,11 @@
+C:\OCR\OCR.Web\OCR.Aplicacion\bin\Debug\net8.0\OCR.Aplicacion.deps.json
+C:\OCR\OCR.Web\OCR.Aplicacion\bin\Debug\net8.0\OCR.Aplicacion.dll
+C:\OCR\OCR.Web\OCR.Aplicacion\bin\Debug\net8.0\OCR.Aplicacion.pdb
+C:\OCR\OCR.Web\OCR.Aplicacion\obj\Debug\net8.0\OCR.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\OCR\OCR.Web\OCR.Aplicacion\obj\Debug\net8.0\OCR.Aplicacion.AssemblyInfoInputs.cache
+C:\OCR\OCR.Web\OCR.Aplicacion\obj\Debug\net8.0\OCR.Aplicacion.AssemblyInfo.cs
+C:\OCR\OCR.Web\OCR.Aplicacion\obj\Debug\net8.0\OCR.Aplicacion.csproj.CoreCompileInputs.cache
+C:\OCR\OCR.Web\OCR.Aplicacion\obj\Debug\net8.0\OCR.Aplicacion.dll
+C:\OCR\OCR.Web\OCR.Aplicacion\obj\Debug\net8.0\refint\OCR.Aplicacion.dll
+C:\OCR\OCR.Web\OCR.Aplicacion\obj\Debug\net8.0\OCR.Aplicacion.pdb
+C:\OCR\OCR.Web\OCR.Aplicacion\obj\Debug\net8.0\ref\OCR.Aplicacion.dll

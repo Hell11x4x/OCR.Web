@@ -1,0 +1,11 @@
+C:\OCR\OCR.Web\OCR.Dominio\bin\Debug\net8.0\OCR.Dominio.deps.json
+C:\OCR\OCR.Web\OCR.Dominio\bin\Debug\net8.0\OCR.Dominio.dll
+C:\OCR\OCR.Web\OCR.Dominio\bin\Debug\net8.0\OCR.Dominio.pdb
+C:\OCR\OCR.Web\OCR.Dominio\obj\Debug\net8.0\OCR.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\OCR\OCR.Web\OCR.Dominio\obj\Debug\net8.0\OCR.Dominio.AssemblyInfoInputs.cache
+C:\OCR\OCR.Web\OCR.Dominio\obj\Debug\net8.0\OCR.Dominio.AssemblyInfo.cs
+C:\OCR\OCR.Web\OCR.Dominio\obj\Debug\net8.0\OCR.Dominio.csproj.CoreCompileInputs.cache
+C:\OCR\OCR.Web\OCR.Dominio\obj\Debug\net8.0\OCR.Dominio.dll
+C:\OCR\OCR.Web\OCR.Dominio\obj\Debug\net8.0\refint\OCR.Dominio.dll
+C:\OCR\OCR.Web\OCR.Dominio\obj\Debug\net8.0\OCR.Dominio.pdb
+C:\OCR\OCR.Web\OCR.Dominio\obj\Debug\net8.0\ref\OCR.Dominio.dll

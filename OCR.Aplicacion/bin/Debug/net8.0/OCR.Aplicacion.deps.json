@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OCR.Aplicacion/1.0.0": {
+        "runtime": {
+          "OCR.Aplicacion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OCR.Aplicacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

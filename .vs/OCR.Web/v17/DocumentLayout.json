@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\OCR\\OCR.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88117156-19BD-4821-8087-0A00C1734955}|OCR.Web\\OCR.Web.csproj|c:\\ocr\\ocr.web\\ocr.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88117156-19BD-4821-8087-0A00C1734955}|OCR.Web\\OCR.Web.csproj|solutionrelative:ocr.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88117156-19BD-4821-8087-0A00C1734955}|OCR.Web\\OCR.Web.csproj|c:\\ocr\\ocr.web\\ocr.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88117156-19BD-4821-8087-0A00C1734955}|OCR.Web\\OCR.Web.csproj|solutionrelative:ocr.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88117156-19BD-4821-8087-0A00C1734955}|OCR.Web\\OCR.Web.csproj|c:\\ocr\\ocr.web\\ocr.web\\views\\ficha\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88117156-19BD-4821-8087-0A00C1734955}|OCR.Web\\OCR.Web.csproj|solutionrelative:ocr.web\\views\\ficha\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E732A-225B-4DE8-AB03-F947D732AB8F}|OCR.Dominio\\OCR.Dominio.csproj|c:\\ocr\\ocr.web\\ocr.dominio\\entidades\\eincripci\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8E732A-225B-4DE8-AB03-F947D732AB8F}|OCR.Dominio\\OCR.Dominio.csproj|solutionrelative:ocr.dominio\\entidades\\eincripci\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88117156-19BD-4821-8087-0A00C1734955}|OCR.Web\\OCR.Web.csproj|c:\\ocr\\ocr.web\\ocr.web\\controllers\\fichacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88117156-19BD-4821-8087-0A00C1734955}|OCR.Web\\OCR.Web.csproj|solutionrelative:ocr.web\\controllers\\fichacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E732A-225B-4DE8-AB03-F947D732AB8F}|OCR.Dominio\\OCR.Dominio.csproj|c:\\ocr\\ocr.web\\ocr.dominio\\entidades\\coordinadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8E732A-225B-4DE8-AB03-F947D732AB8F}|OCR.Dominio\\OCR.Dominio.csproj|solutionrelative:ocr.dominio\\entidades\\coordinadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7203F2-CB78-47A9-B273-C2C60A4448D2}|OCR.Infraestuctura\\OCR.Infraestuctura.csproj|c:\\ocr\\ocr.web\\ocr.infraestuctura\\datos\\aplicaciondbcontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7203F2-CB78-47A9-B273-C2C60A4448D2}|OCR.Infraestuctura\\OCR.Infraestuctura.csproj|solutionrelative:ocr.infraestuctura\\datos\\aplicaciondbcontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7203F2-CB78-47A9-B273-C2C60A4448D2}|OCR.Infraestuctura\\OCR.Infraestuctura.csproj|c:\\ocr\\ocr.web\\ocr.infraestuctura\\migrations\\20240523154654_incripciones01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7203F2-CB78-47A9-B273-C2C60A4448D2}|OCR.Infraestuctura\\OCR.Infraestuctura.csproj|solutionrelative:ocr.infraestuctura\\migrations\\20240523154654_incripciones01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88117156-19BD-4821-8087-0A00C1734955}|OCR.Web\\OCR.Web.csproj|c:\\ocr\\ocr.web\\ocr.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88117156-19BD-4821-8087-0A00C1734955}|OCR.Web\\OCR.Web.csproj|solutionrelative:ocr.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E732A-225B-4DE8-AB03-F947D732AB8F}|OCR.Dominio\\OCR.Dominio.csproj|c:\\ocr\\ocr.web\\ocr.dominio\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8E732A-225B-4DE8-AB03-F947D732AB8F}|OCR.Dominio\\OCR.Dominio.csproj|solutionrelative:ocr.dominio\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88117156-19BD-4821-8087-0A00C1734955}|OCR.Web\\OCR.Web.csproj|c:\\ocr\\ocr.web\\ocr.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88117156-19BD-4821-8087-0A00C1734955}|OCR.Web\\OCR.Web.csproj|solutionrelative:ocr.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88117156-19BD-4821-8087-0A00C1734955}|OCR.Web\\OCR.Web.csproj|c:\\ocr\\ocr.web\\ocr.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88117156-19BD-4821-8087-0A00C1734955}|OCR.Web\\OCR.Web.csproj|solutionrelative:ocr.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E732A-225B-4DE8-AB03-F947D732AB8F}|OCR.Dominio\\OCR.Dominio.csproj|c:\\ocr\\ocr.web\\ocr.dominio\\entidades\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8E732A-225B-4DE8-AB03-F947D732AB8F}|OCR.Dominio\\OCR.Dominio.csproj|solutionrelative:ocr.dominio\\entidades\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7203F2-CB78-47A9-B273-C2C60A4448D2}|OCR.Infraestuctura\\OCR.Infraestuctura.csproj|c:\\ocr\\ocr.web\\ocr.infraestuctura\\ocr.infraestuctura.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F7203F2-CB78-47A9-B273-C2C60A4448D2}|OCR.Infraestuctura\\OCR.Infraestuctura.csproj|solutionrelative:ocr.infraestuctura\\ocr.infraestuctura.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD20BF-F451-448F-84E8-F22AD72A9D6F}|OCR.Aplicacion\\OCR.Aplicacion.csproj|c:\\ocr\\ocr.web\\ocr.aplicacion\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD20BF-F451-448F-84E8-F22AD72A9D6F}|OCR.Aplicacion\\OCR.Aplicacion.csproj|solutionrelative:ocr.aplicacion\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\OCR\\OCR.Web\\OCR.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "OCR.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\OCR\\OCR.Web\\OCR.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "OCR.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T16:29:04.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\OCR\\OCR.Web\\OCR.Web\\Views\\Ficha\\Index.cshtml",
+              "RelativeDocumentMoniker": "OCR.Web\\Views\\Ficha\\Index.cshtml",
+              "ToolTip": "C:\\OCR\\OCR.Web\\OCR.Web\\Views\\Ficha\\Index.cshtml",
+              "RelativeToolTip": "OCR.Web\\Views\\Ficha\\Index.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T15:50:22.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AplicacionDbContexto.cs",
+              "DocumentMoniker": "C:\\OCR\\OCR.Web\\OCR.Infraestuctura\\Datos\\AplicacionDbContexto.cs",
+              "RelativeDocumentMoniker": "OCR.Infraestuctura\\Datos\\AplicacionDbContexto.cs",
+              "ToolTip": "C:\\OCR\\OCR.Web\\OCR.Infraestuctura\\Datos\\AplicacionDbContexto.cs",
+              "RelativeToolTip": "OCR.Infraestuctura\\Datos\\AplicacionDbContexto.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAqwCIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:19:40.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EIncripci\u00F3n.cs",
+              "DocumentMoniker": "C:\\OCR\\OCR.Web\\OCR.Dominio\\Entidades\\EIncripci\u00F3n.cs",
+              "RelativeDocumentMoniker": "OCR.Dominio\\Entidades\\EIncripci\u00F3n.cs",
+              "ToolTip": "C:\\OCR\\OCR.Web\\OCR.Dominio\\Entidades\\EIncripci\u00F3n.cs",
+              "RelativeToolTip": "OCR.Dominio\\Entidades\\EIncripci\u00F3n.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAwwCoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T13:48:49.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Coordinadora.cs",
+              "DocumentMoniker": "C:\\OCR\\OCR.Web\\OCR.Dominio\\Entidades\\Coordinadora.cs",
+              "RelativeDocumentMoniker": "OCR.Dominio\\Entidades\\Coordinadora.cs",
+              "ToolTip": "C:\\OCR\\OCR.Web\\OCR.Dominio\\Entidades\\Coordinadora.cs",
+              "RelativeToolTip": "OCR.Dominio\\Entidades\\Coordinadora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:11:14.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\OCR\\OCR.Web\\OCR.Web\\Program.cs",
+              "RelativeDocumentMoniker": "OCR.Web\\Program.cs",
+              "ToolTip": "C:\\OCR\\OCR.Web\\OCR.Web\\Program.cs",
+              "RelativeToolTip": "OCR.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:52:19.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FichaController.cs",
+              "DocumentMoniker": "C:\\OCR\\OCR.Web\\OCR.Web\\Controllers\\FichaController.cs",
+              "RelativeDocumentMoniker": "OCR.Web\\Controllers\\FichaController.cs",
+              "ToolTip": "C:\\OCR\\OCR.Web\\OCR.Web\\Controllers\\FichaController.cs",
+              "RelativeToolTip": "OCR.Web\\Controllers\\FichaController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADgvwsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:48:25.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240523154654_incripciones01.cs",
+              "DocumentMoniker": "C:\\OCR\\OCR.Web\\OCR.Infraestuctura\\Migrations\\20240523154654_incripciones01.cs",
+              "RelativeDocumentMoniker": "OCR.Infraestuctura\\Migrations\\20240523154654_incripciones01.cs",
+              "ToolTip": "C:\\OCR\\OCR.Web\\OCR.Infraestuctura\\Migrations\\20240523154654_incripciones01.cs",
+              "RelativeToolTip": "OCR.Infraestuctura\\Migrations\\20240523154654_incripciones01.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:46:55.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\OCR\\OCR.Web\\OCR.Dominio\\Entidades\\Usuario.cs",
+              "RelativeDocumentMoniker": "OCR.Dominio\\Entidades\\Usuario.cs",
+              "ToolTip": "C:\\OCR\\OCR.Web\\OCR.Dominio\\Entidades\\Usuario.cs",
+              "RelativeToolTip": "OCR.Dominio\\Entidades\\Usuario.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:08:10.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\OCR\\OCR.Web\\OCR.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "OCR.Web\\appsettings.json",
+              "ToolTip": "C:\\OCR\\OCR.Web\\OCR.Web\\appsettings.json",
+              "RelativeToolTip": "OCR.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T14:58:33.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\OCR\\OCR.Web\\OCR.Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "OCR.Web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\OCR\\OCR.Web\\OCR.Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "OCR.Web\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T15:09:05.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\OCR\\OCR.Web\\OCR.Web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "OCR.Web\\appsettings.Development.json",
+              "ToolTip": "C:\\OCR\\OCR.Web\\OCR.Web\\appsettings.Development.json",
+              "RelativeToolTip": "OCR.Web\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T15:08:15.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "C:\\OCR\\OCR.Web\\OCR.Dominio\\Entidades\\Administrador.cs",
+              "RelativeDocumentMoniker": "OCR.Dominio\\Entidades\\Administrador.cs",
+              "ToolTip": "C:\\OCR\\OCR.Web\\OCR.Dominio\\Entidades\\Administrador.cs",
+              "RelativeToolTip": "OCR.Dominio\\Entidades\\Administrador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:16:21.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OCR.Infraestuctura.csproj",
+              "DocumentMoniker": "C:\\OCR\\OCR.Web\\OCR.Infraestuctura\\OCR.Infraestuctura.csproj",
+              "RelativeDocumentMoniker": "OCR.Infraestuctura\\OCR.Infraestuctura.csproj",
+              "ToolTip": "C:\\OCR\\OCR.Web\\OCR.Infraestuctura\\OCR.Infraestuctura.csproj",
+              "RelativeToolTip": "OCR.Infraestuctura\\OCR.Infraestuctura.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-23T13:46:53.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\OCR\\OCR.Web\\OCR.Aplicacion\\Class1.cs",
+              "RelativeDocumentMoniker": "OCR.Aplicacion\\Class1.cs",
+              "ToolTip": "C:\\OCR\\OCR.Web\\OCR.Aplicacion\\Class1.cs",
+              "RelativeToolTip": "OCR.Aplicacion\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T13:45:47.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

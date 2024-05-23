@@ -1,0 +1,17 @@
+C:\OCR\OCR.Web\OCR.Infraestuctura\bin\Debug\net8.0\OCR.Infraestuctura.deps.json
+C:\OCR\OCR.Web\OCR.Infraestuctura\bin\Debug\net8.0\OCR.Infraestuctura.runtimeconfig.json
+C:\OCR\OCR.Web\OCR.Infraestuctura\bin\Debug\net8.0\OCR.Infraestuctura.dll
+C:\OCR\OCR.Web\OCR.Infraestuctura\bin\Debug\net8.0\OCR.Infraestuctura.pdb
+C:\OCR\OCR.Web\OCR.Infraestuctura\bin\Debug\net8.0\OCR.Dominio.dll
+C:\OCR\OCR.Web\OCR.Infraestuctura\bin\Debug\net8.0\OCR.Dominio.pdb
+C:\OCR\OCR.Web\OCR.Infraestuctura\obj\Debug\net8.0\OCR.Infraestuctura.csproj.AssemblyReference.cache
+C:\OCR\OCR.Web\OCR.Infraestuctura\obj\Debug\net8.0\OCR.Infraestuctura.GeneratedMSBuildEditorConfig.editorconfig
+C:\OCR\OCR.Web\OCR.Infraestuctura\obj\Debug\net8.0\OCR.Infraestuctura.AssemblyInfoInputs.cache
+C:\OCR\OCR.Web\OCR.Infraestuctura\obj\Debug\net8.0\OCR.Infraestuctura.AssemblyInfo.cs
+C:\OCR\OCR.Web\OCR.Infraestuctura\obj\Debug\net8.0\OCR.Infraestuctura.csproj.CoreCompileInputs.cache
+C:\OCR\OCR.Web\OCR.Infraestuctura\obj\Debug\net8.0\OCR.Infr.D8407B5B.Up2Date
+C:\OCR\OCR.Web\OCR.Infraestuctura\obj\Debug\net8.0\OCR.Infraestuctura.dll
+C:\OCR\OCR.Web\OCR.Infraestuctura\obj\Debug\net8.0\refint\OCR.Infraestuctura.dll
+C:\OCR\OCR.Web\OCR.Infraestuctura\obj\Debug\net8.0\OCR.Infraestuctura.pdb
+C:\OCR\OCR.Web\OCR.Infraestuctura\obj\Debug\net8.0\OCR.Infraestuctura.genruntimeconfig.cache
+C:\OCR\OCR.Web\OCR.Infraestuctura\obj\Debug\net8.0\ref\OCR.Infraestuctura.dll
